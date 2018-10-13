@@ -1,5 +1,7 @@
 # Intro to Reading Ruby Error Messages
 
+[![GuardRails badge](https://badges.production.guardrails.io/bennythejudge/ruby-lecture-reading-error-messages-q-000.svg)](https://www.guardrails.io)
+
 ## Overview
 
 In this lab, you'll be reading error messages from tests. This lab is designed so that both running the files *and* running the test suite via the `learn` command will show the error messages for you to decode. Moving forward though, you'll be reading error messages mainly through running the test suite.
